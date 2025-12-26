@@ -1,4 +1,7 @@
-How to activate office 2019 plus
+#How to activate office 2019 plus
+Step 1: create text file with .cmd extension
+Step 2: Open that file with notepad and paste command below and save
+
 ```
 @echo off
 title KMS Activator for Microsoft Office 2019 By VishalGupta648 &cls&echo ********************************************* &echo Copyright: Youtube: BlueTechSupport (VishalGupta648) &echo ********************************************* &echo.&echo Supported products:&echo Microsoft Office Standard 2019&echo Microsoft Office Professional 2019&echo.&echo Microsoft Office 2019 activation...
@@ -19,3 +22,4 @@ echo.&echo ********************************************* &echo Incorrect version
 
 pause >nul
 ```
+Step 3: run as administrator this file.
